@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GridClick</string>
+    <string name="Title">Title</string>
+    <string name="Author">Author</string>
+    <string name="about_description">This app shows information about the most popular books and their authors.</string>
+    <string name="about_desc">About Description</string>
+    <string name="about_title">About Title</string>
+    <string name="dialog_title">Rate Our App</string>
+    <array name="dialog_options">
+        <item>Excellent</item>
+        <item>Very Good</item>
+        <item>Good</item>
+        <item>Bad</item>
+        <item>Very Bad</item>
+    </array>
+    <array name="button_names">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+</resources>
